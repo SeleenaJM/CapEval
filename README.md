@@ -1,2 +1,2 @@
-# Image-Caption-Evalaution (TIGEr & REO)
+# Image-Caption-Evalaution
 Under construction. code and data coming soon.
