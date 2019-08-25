@@ -1,2 +1,2 @@
-# Image-Caption-Evalaution
+# Image-Caption-Evaluation
 Under construction. code and data coming soon.
