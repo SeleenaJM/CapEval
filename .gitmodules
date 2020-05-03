@@ -1,0 +1,3 @@
+[submodule "SCAN"]
+	path = SCAN
+	url = https://github.com/kuanghuei/SCAN.git
