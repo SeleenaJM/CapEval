@@ -10,8 +10,8 @@ Prerequisites (installed by "install_requirement.sh"):
 * PyTorch 0.4.1
 * cuda & cudnn
 ```bash
-git clone --recurse-submodules -j8 https://github.com/SeleenaJM/TIGEr.git
-cd TIGEr && bash install_requirement.sh
+git clone --recurse-submodules -j8 https://github.com/SeleenaJM/CapEval.git
+cd CapEval && bash install_requirement.sh
 source activate tiger
 ```
 
